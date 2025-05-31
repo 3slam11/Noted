@@ -32,7 +32,3 @@ The application uses the following APIs:
 
 **Using Custom API Keys:**
 Users can provide their own API keys via the "Change API" screen in the app settings. These custom keys are stored locally using `shared_preferences` and will be used instead of the default ones if provided.
-
-## License
-
-*(TODO.)*
